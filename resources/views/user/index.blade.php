@@ -84,25 +84,54 @@
                 <div class="pb-12">
                     <h3 class="text-[35px] dark:text-white font-medium pb-5"> What I do! </h3>
                     <div class="grid gap-8 grid-cols-1 md:grid-cols-2 xl:grid-cols-3">
-                        <div class="about-box dark:bg-transparent bg-[#fcf4ff]">
+
+                        <div class="about-box dark:bg-transparent bg-[#fff0f8]">
                             <img class="w-10 h-10 object-contain block"
-                                 src="{{asset('portfolio/images/icons/icon.svg')}}"
+                                 src="{{asset('portfolio/images/icons/icon4.svg')}}"
                                  alt="icon"/>
                             <div class="space-y-2">
-                                <h3 class="dark:text-white text-2xl font-semibold"> Ui/Ux Design </h3>
-                                <p class="leading-8 text-gray-lite dark:text-[#A6A6A6]"> Lorem ipsum dolor
-                                    sit amet, consectetuer adipiscing elit, sed diam euismod volutpat. </p>
+                                <h3 class="dark:text-white text-2xl font-semibold"> Backend </h3>
+                                <p class="leading-8 text-gray-lite dark:text-[#A6A6A6]"> I turning complex problems into simple with PHP, Laravel, Wordpress and Livewire. </p>
+                            </div>
+                        </div>
+
+                        <div class="about-box dark:bg-transparent bg-[#f3faff]">
+                            <img class="w-10 h-10 object-contain block"
+                                 src="{{asset('portfolio/images/icons/icon5.png')}}"
+                                 alt="icon"/>
+                            <div class="space-y-2">
+                                <h3 class="dark:text-white text-2xl font-semibold"> Telegram Bot </h3>
+                                <p class="leading-8 text-gray-lite dark:text-[#A6A6A6]"> I create telegram bots that help people in every way. </p>
+                            </div>
+                        </div>
+
+                        <div class="about-box dark:bg-transparent bg-[#fff4f4]">
+                            <img class="w-10 h-10 object-contain block"
+                                 src="{{asset('portfolio/images/icons/icon3.png')}}"
+                                 alt="icon"/>
+                            <div class="space-y-2">
+                                <h3 class="dark:text-white text-2xl font-semibold"> Database </h3>
+                                <p class="leading-8 text-gray-lite dark:text-[#A6A6A6]"> I can easily create a more complex database than what you think. </p>
                             </div>
                         </div>
 
                         <div class="about-box dark:bg-transparent bg-[#fefaf0]">
                             <img class="w-10 h-10 object-contain block"
-                                 src="{{asset('portfolio/images/icons/icon1.svg')}}"
+                                 src="{{asset('portfolio/images/icons/icon1.png')}}"
                                  alt="icon"/>
                             <div class="space-y-2">
-                                <h3 class="dark:text-white text-2xl font-semibold"> App Development </h3>
-                                <p class="leading-8 text-gray-lite dark:text-[#A6A6A6]"> Lorem ipsum dolor
-                                    sit amet, consectetuer adipiscing elit, sed diam euismod volutpat. </p>
+                                <h3 class="dark:text-white text-2xl font-semibold"> API </h3>
+                                <p class="leading-8 text-gray-lite dark:text-[#A6A6A6]"> I create API for applications and frontend development </p>
+                            </div>
+                        </div>
+
+                        <div class="about-box dark:bg-transparent bg-[#fcf4ff]">
+                            <img class="w-10 h-10 object-contain block"
+                                 src="{{asset('portfolio/images/icons/icon.svg')}}"
+                                 alt="icon"/>
+                            <div class="space-y-2">
+                                <h3 class="dark:text-white text-2xl font-semibold"> UI/UX Design </h3>
+                                <p class="leading-8 text-gray-lite dark:text-[#A6A6A6]"> I create spectacular and creative designs that make people's lives easier. </p>
                             </div>
                         </div>
 
@@ -111,44 +140,11 @@
                                  src="{{asset('portfolio/images/icons/icon2.svg')}}"
                                  alt="icon"/>
                             <div class="space-y-2">
-                                <h3 class="dark:text-white text-2xl font-semibold"> Photography </h3>
-                                <p class="leading-8 text-gray-lite dark:text-[#A6A6A6]"> Lorem ipsum dolor
-                                    sit amet, consectetuer adipiscing elit, sed diam euismod volutpat. </p>
+                                <h3 class="dark:text-white text-2xl font-semibold"> SMD </h3>
+                                <p class="leading-8 text-gray-lite dark:text-[#A6A6A6]"> I create perfect designs for Social Media that captivate all users </p>
                             </div>
                         </div>
 
-                        <div class="about-box dark:bg-transparent bg-[#fff4f4]">
-                            <img class="w-10 h-10 object-contain block"
-                                 src="{{asset('portfolio/images/icons/icon3.svg')}}"
-                                 alt="icon"/>
-                            <div class="space-y-2">
-                                <h3 class="dark:text-white text-2xl font-semibold"> Photography </h3>
-                                <p class="leading-8 text-gray-lite dark:text-[#A6A6A6]"> Lorem ipsum dolor
-                                    sit amet, consectetuer adipiscing elit, sed diam euismod volutpat. </p>
-                            </div>
-                        </div>
-
-                        <div class="about-box dark:bg-transparent bg-[#fff0f8]">
-                            <img class="w-10 h-10 object-contain block"
-                                 src="{{asset('portfolio/images/icons/icon4.svg')}}"
-                                 alt="icon"/>
-                            <div class="space-y-2">
-                                <h3 class="dark:text-white text-2xl font-semibold"> Managment </h3>
-                                <p class="leading-8 text-gray-lite dark:text-[#A6A6A6]"> Lorem ipsum dolor
-                                    sit amet, consectetuer adipiscing elit, sed diam euismod volutpat. </p>
-                            </div>
-                        </div>
-
-                        <div class="about-box dark:bg-transparent bg-[#f3faff]">
-                            <img class="w-10 h-10 object-contain block"
-                                 src="{{asset('portfolio/images/icons/icon5.svg')}}"
-                                 alt="icon"/>
-                            <div class="space-y-2">
-                                <h3 class="dark:text-white text-2xl font-semibold"> Web Development </h3>
-                                <p class="leading-8 text-gray-lite dark:text-[#A6A6A6]"> Lorem ipsum dolor
-                                    sit amet, consectetuer adipiscing elit, sed diam euismod volutpat. </p>
-                            </div>
-                        </div>
                     </div>
                 </div>
 
